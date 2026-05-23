@@ -139,7 +139,11 @@ The system is modeled as **two independent ball-and-beam systems** (X and Y axes
 
 See [`docs/control_theory.md`](docs/control_theory.md) for the full derivation.
 
+
+
 ## Hardware
+
+<img width="900" height="1600" alt="Image" src="https://github.com/user-attachments/assets/28a21cbf-f207-4860-8046-805396eb7276" />
 
 | Component | Specification |
 |---|---|
