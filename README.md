@@ -9,6 +9,8 @@ A closed-loop visual servoing system that balances a ping pong ball on a 30×30 
 
 ---
 
+https://github.com/user-attachments/assets/25094b64-cf86-401e-aa2f-fe0da3c0cd70
+
 ## Overview
 
 A camera mounted above the plate tracks the ball in real-time using HSV color detection. A Python controller running on the host PC estimates ball position and velocity, computes the required plate tilt via LQR state feedback, maps that tilt to servo angles through exact inverse kinematics, and sends commands to an Arduino over serial.
